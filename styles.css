@@ -19,7 +19,7 @@
 body
 {
     background-color: rgba(176, 176, 179, 0.48);
-    background-image: url(http://127.0.0.1/img/bg.jpg);
+    background-image: url(img/bg.jpg);
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
