@@ -1,0 +1,24 @@
+
+
+.title
+{
+    text-align: center;
+    color: rgba(0,0,0,1);
+}
+
+body
+{
+    background-color: rgba(7, 59, 203, 0.48);
+}
+
+.panel
+{
+    background-color: rgba(0,0,0,0.78);
+    border-color: rgba(5,5,5,1);
+}
+
+.menu-item
+{
+    text-align: center;
+}
+

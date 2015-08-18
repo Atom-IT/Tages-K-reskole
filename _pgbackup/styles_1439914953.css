@@ -1,0 +1,44 @@
+
+
+.title
+{
+    text-align: center;
+    color: rgba(255,255,255,1);
+}
+
+body
+{
+    background-color: rgba(7, 59, 203, 0.48);
+    background-image: url(http://127.0.0.1/img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    max-width: 100%;
+}
+
+.menu-item
+{
+    text-align: center;
+}
+
+p
+{
+    text-align: center;
+}
+
+.content
+{
+    background-color: #edebeb !important;
+    color: #ffffff !important;
+}
+
+.content p {
+   color: rgba(255,255,255, 1);   
+}
+
+
+#navbar
+{
+    max-width: 100%;
+}
+
